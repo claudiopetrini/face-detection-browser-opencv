@@ -1,6 +1,6 @@
 # face-detection-browser-opencv
 
-Real-time face detection using OpenCV, Node.js, and WebSockets.
+Real-time face detection using WebRTC, OpenCV, Node.js, and WebSockets.
 
 Similar to [face-detection-node-opencv](https://github.com/claudiopetrini/face-detection-node-opencv) but this time:
 
